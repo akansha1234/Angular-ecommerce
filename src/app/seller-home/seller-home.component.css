@@ -1,0 +1,27 @@
+table {
+  text-align: left;
+  border-collapse: collapse;
+  color: mediumorchid;
+  margin: auto;
+}
+table td,
+table th {
+  border: 1px solid mediumorchid;
+  padding: 10px;
+  min-height: 160px;
+}
+.del-msg {
+  color: green;
+  text-align: center;
+}
+.del-btn {
+  cursor: pointer;
+}
+.update-link {
+  margin-left: 10px;
+  cursor: pointer;
+}
+.product-img {
+  width: 120px;
+  height: 140px;
+}

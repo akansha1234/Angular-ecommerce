@@ -1,0 +1,90 @@
+{
+  "seller": [
+    {
+      "name": "Riya",
+      "email": "riya@gmail.com",
+      "password": "riya@1234",
+      "id": 1
+    },
+    {
+      "name": "tom",
+      "email": "tom@gmail.com",
+      "password": "tom@1234",
+      "id": 2
+    },
+    {
+      "name": "jon",
+      "email": "jon@gmail.com",
+      "password": "jon@1234",
+      "id": 3
+    },
+    {
+      "name": "monica",
+      "email": "monica@gmail.com",
+      "password": "monica@1234",
+      "id": 4
+    },
+    {
+      "name": "jose",
+      "email": "jose@gmail.com",
+      "password": "jose@1234",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "name": "Phone XL Samsung",
+      "price": "999",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1580910051074-3eb694886505?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHBob25lfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      "description": "A portable phone",
+      "id": 1
+    },
+    {
+      "name": "Phone Mini",
+      "price": "699",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YW5kcm9pZCUyMHBob25lfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      "description": "A phone with good camera",
+      "id": 2
+    },
+    {
+      "name": "Shoes",
+      "price": "500",
+      "category": "Shoes",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/a/n/n/-original-imagfyy36gfz7pxc-bb.jpeg?q=70",
+      "description": "Comfy shoes",
+      "id": 3
+    },
+    {
+      "name": "Jeans",
+      "price": "899",
+      "category": "Clothes",
+      "image": "https://cdn.shopify.com/s/files/1/0266/6276/4597/products/100001_300862742_016_1.jpg?v=1627047413",
+      "description": "Stretchable Jeans",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "name": "zendy",
+      "email": "zendy@gmailcom",
+      "password": "zendy1234",
+      "id": 1
+    },
+    {
+      "name": "Peter",
+      "email": "Peter@gmail.com",
+      "password": "peter1234",
+      "id": 2
+    },
+    {
+      "name": "Jim",
+      "email": "Jim@gmail.com",
+      "password": "Jim1234",
+      "id": 3
+    }
+  ],
+  "cart": [],
+  "order": []
+}

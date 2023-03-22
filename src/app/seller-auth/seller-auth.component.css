@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+  color: mediumorchid;
+}
+.auth-toggle-link {
+  color: black;
+  cursor: pointer;
+  margin-top: 2%;
+}
+.error {
+  text-align: center;
+  color: red;
+}
