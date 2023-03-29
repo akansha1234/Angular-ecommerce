@@ -1,3 +1,4 @@
 # Angular-ecommerce
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-663pug-yhdlqd)
+This is an E-commerce website. It has two dashboards one for seller and one for user. Seller can add products and update it.
+User can view product, add product into cart, cancel the order and checkout it.
+I used JSON server for the backend.
