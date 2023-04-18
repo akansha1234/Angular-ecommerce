@@ -12,7 +12,7 @@ export class SellerAuthComponent {
   showError: string = '';
   constructor(private seller: SellerService, private router: Router) {}
   ngOnInit() {
-    this.seller.reloadSeller;
+    this.seller.reloadSeller();
   }
   signUp(data: SignUp) {
     if (data.name !== '' && data.email !== '' && data.password !== '') {

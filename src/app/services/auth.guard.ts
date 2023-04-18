@@ -6,7 +6,7 @@ import {
   UrlTree,
 } from '@angular/router';
 import { Observable } from 'rxjs';
-import { SellerService } from './services/seller.service';
+import { SellerService } from './seller.service';
 
 @Injectable({
   providedIn: 'root',
@@ -22,8 +22,10 @@ export class AuthGuard implements CanActivate {
     | boolean
     | UrlTree {
     if (localStorage.getItem('seller')) {
+      console.log('hello');
       return true;
     }
+    console.log('hello1');
     return this.sellerService.isSellerLoggedIn;
   }
 }
